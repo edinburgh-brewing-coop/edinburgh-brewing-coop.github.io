@@ -1,0 +1,116 @@
+---
+layout: post
+title:  "Bermuda - Atlantic Brown Ale"
+date:   2016-03-20 21:59:20
+categories: brewing recipe
+tags: brewing recipe
+image: /images/bermuda-blending.jpg
+---
+
+Brown ale is an old style, from when kilning was not an exact thing, and no
+one split hairs over exactly how burnt their malt got. So some brown ales
+were
+browner than others. People don't like to be surprised, so at some point
+brown ales died out.
+
+But, now they're back, and maybe their not _exactly_ the same. Maybe
+American brown ales have more hops than the traditional styles. That's one
+inspiration; good hoppy American brown ales.
+
+Inspiration number two comes from one of the most iconic brown ales:
+Newcastle Brown Ale. In their brewing process, the final brown ale is made
+by blending a strong and weak ale that has fermented separately. That
+seems like a good trick to get consistent results, so we're going to do
+that too.
+
+The American recipe we were mostly building from was that of the [mad
+fermentationist][mad], but we've deviated quite a bit.
+
+Grain Bill
+==========
+
+* 3.3kg pale malt
+* 400g Crystal malt
+* 300g golden oats
+* 550g brown malt
+
+Mash
+====
+
+We heated 11.4l of water to 76.2°C and mashed for 1 hour and 20 minutes.
+Careful, at this point, because this is where we separate the wort.
+
+Sparge
+======
+
+We Sparged up to 20l of water at 76°C after separating the first 4l into
+another container. 
+
+After sparging we checked the gravity in the small (4l) container and found
+it was 1.093, while the larger (20l) was 1.034. From now on, going to refer
+to the small as the __strong__ part and the larger as the __weak__ part.
+
+At this point we took 1l from the strong and put it into the weak, then
+took 1l from the weak, after letting it mix, and put it into the strong.
+After doing this, the strong was at 1.076 and the weak was at 1.035.
+
+Boil
+====
+
+We boiled for one hour, for both the strong and weak. We used the following
+hop schedule:
+
+* Weak:
+    * 20g Centennial at 60 minutes
+    * 20g Centennial at 10 minutes
+    * 20g Centennial at 0 minutes
+* Strong:
+    * 13g Centennial at 60 minutes
+    * 13g Centennial at 10 minutes
+    * 13g Centennial at 0 minutes
+
+Pitching the Yeast
+==================
+
+AFter the boil cooled to 25°C we checked the gravity again:
+
+* Weak OG: 1.038
+* Strong OG: 1.090
+
+Into the strong we pitched a WLP001 California Ale Yeast, and into the weak
+we pitched a dried american ale yeast sachet.
+
+However, the dried yeast didn't really get going, so after a couple of
+days took a sample from the strong (which was fermenting well) and made a
+starter with some spray malt in a 2l container. After a day that was
+fermenting well so pitched it into the weak bucket. Then, the weak began
+fermenting properly.
+
+![](/images/bermuda-fermenting.jpg)
+
+Dry Hopping
+===========
+
+Twelve days after starting, we racked both into new fermenters and Chinook
+to both for dry hopping:
+
+* Weak: 20g Chinook
+* Strong: 13g Chinook
+
+Blending
+========
+
+We took samples of the beer after 9 days and made mixtures in varying
+proportions of weak to strong, from 0% to 40% strong in 10% graduations.
+Then, we blindfolded James and got him to grade each, being supplied in a
+random order (and giving him some twice).
+
+![](/images/bermuda-james.jpg)
+
+Then, we just tasted them and discussed. Finally, decided that it would be
+best to go for a mixture of 20% strong to 80% weak. Given that the final
+gravity for the weak was 1.016 and the strong finished at 1.041 this means
+that the final estimate for ABV is approximately 3.6%. After blending the
+weak and strong together we bottled it with 60g of priming sugar.
+
+[mad]: http://www.themadfermentationist.com/2009/03/hoppy-brown-ale-india-brown-ale.html
