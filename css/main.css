@@ -2417,7 +2417,7 @@
 				}
 
 					ul.posts article .image img {
-                        max-width: 100%;
+                        max-width: 250px;
                         max-height: 100%;
 					}
 
