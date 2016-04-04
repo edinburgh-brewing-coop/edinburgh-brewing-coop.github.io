@@ -14,6 +14,6 @@ markdown: kramdown
 
 paginate: 4
 
-author: Your name
+author: Edinburgh Brewing Cooperative
 
 gems: [jekyll-paginate]
