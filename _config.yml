@@ -16,4 +16,6 @@ paginate: 4
 
 author: Edinburgh Brewing Cooperative
 
+future: true
+
 gems: [jekyll-paginate]
