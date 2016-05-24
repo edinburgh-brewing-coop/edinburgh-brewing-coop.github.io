@@ -82,8 +82,7 @@ Fermentation
 ============
 
 Pitched a vial of WLP530 Abbey Ale once it had cooled to 22°C. Racked after
-three days as it burst the airlock and made a mess in the primary
-fermenter.
+three days as it burst the airlock on the primary fermenter.
 
 ![](/images/wheat-fermenter.jpg)
 
