@@ -32,9 +32,9 @@ Boiled the remainder for 90 minutes.
 Our first plan was to use Galena, possibly Colombus hops. But as luck would have it, our Brewstore were selling 4 year and very pungent Fuggles; aged in store having been acquired after the closure of another homebrew shop in town some years ago. 36 grams was added to the remainder at 60 minutes. At 30 minutes, another 30 grams.
 
 After separating into 3 demijohns:
-* The dregs of a Strawberry Lambik added to 4L
-* French Saison yeast, taken from our own ongoing batch of Scotlandsdricka, added 4L
-* Flemish Ale Blend yeast, again taken from last week's Scotlandsdricka, added to 4L
+* The dregs of a Strawberry Lambik (Hansson's), WildBeer's summer 2015 Blend, and a small bottle of Cantillon (Raspberry): added to ~4L
+* French Saison yeast, taken from our own ongoing batch of Scotlandsdricka: added to ~4L
+* Flemish Ale Blend yeast, again taken from last week's Scotlandsdricka: added to ~4L
 
 Original Gravity
 
