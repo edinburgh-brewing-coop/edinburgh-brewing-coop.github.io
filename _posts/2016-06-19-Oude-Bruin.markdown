@@ -38,6 +38,8 @@ After separating into 3 demijohns:
 
 Original Gravity
 
+OG 1.059 (hope to end: 1.010)
+
 But Wait
 ========
 
