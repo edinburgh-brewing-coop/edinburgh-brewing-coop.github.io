@@ -3,7 +3,7 @@ layout: post
 title:  "Oude Bruin - Experiment in Blending"
 date:   2016-06-19 16:51:20
 categories: brewing recipe
-tags: brewing recipe, experimental, road trip
+tags: brewing recipe
 image: /images/flag.png
 ---
 
