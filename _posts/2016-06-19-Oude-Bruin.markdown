@@ -7,7 +7,9 @@ tags: brewing recipe, experimental, road trip
 image: /images/flag.png
 ---
 
-__Interesting anecdote from our recent time in Belgium pending__.
+Edinburgh Brew Co-op visited Belgium last month to take part in the world's possibly - per their own admission - most obscure beer festival: *The Festival of Spontaneous Fermentation*. A more detailed write up of this event, along with some pictures, is soon to follow. An Oude Bruin, of which we sampled a few at the festival, is a sour brown ale whose complex flavours are achieved, like many styles from this region, through an inexact process by which the wort is left for a time exposed with the aim that a smorgasbord of different local yeasts and bacteria will settle down and begin to multiply. This is perhaps not something we can reliably achieve outwith an old Belgian atticspace and its accompanying air but our aim is to approximate these flavour combinations by splitting our wort up so we can eventually blend the results of different processes. Around 4L of the wort gets some various bottle dregs added to it from beers we like, including dregs from a bottle brought back with us for hopefully a bit of authenticity.
+
+Without further ado, our recipe today is as follows:
 
 Grain Bill
 ==========

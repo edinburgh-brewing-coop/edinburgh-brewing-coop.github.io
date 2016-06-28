@@ -7,7 +7,9 @@ tags: brewing recipe
 image: /images/Gotland-arms.svg
 ---
 
-__Interesting historical description pending__.
+*Scotlandsdricka* is our pun on *Gotlandsdricka*, an ancient ale possiby enjoyed in the Viking Age, but which now only survives on the island of Gotland, Sweden. 
+
+I haven't had a chance yet to visit, so I can't comment whether our attempt is sound or whether it will have been a succesful one in trying to emulate this style. However, our go at it does continue our interest in exploring the history and the flavour of beer by our recipe's exclusion of hops in favour of various herbs which arrive at a similar function but with hopefully a different taste. More reading about herbal beers in one of a few books we've been consulting for inspiration can currently be found archived [here](https://ia802505.us.archive.org/5/items/SacredAndHerbalHealingBeersTheSecretsOfAncientFermentation/Sacred%20and%20Herbal%20Healing%20Beers%20The%20Secrets%20of%20Ancient%20Fermentation.pdf "Fuck yeah weird old beer bible").
 
 Grain Bill
 ==========
