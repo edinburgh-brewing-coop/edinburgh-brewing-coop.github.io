@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Stout TBC"
+title:  "Cherry Oak Stout"
 date:   2016-09-10 10:00:20
 categories: brewing recipe
 tags: brewing recipe
