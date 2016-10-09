@@ -4,7 +4,7 @@ title:  "Scotlandsdricka"
 date:   2016-06-12 16:39:20
 categories: brewing recipe
 tags: brewing recipe
-image: /images/Gotland-arms.svg
+image: /images/Gotland.png
 ---
 
 *Scotlandsdricka* is our pun on *Gotlandsdricka*, an ancient ale possiby enjoyed in the Viking Age, but which now only survives on the island of Gotland, Sweden. 

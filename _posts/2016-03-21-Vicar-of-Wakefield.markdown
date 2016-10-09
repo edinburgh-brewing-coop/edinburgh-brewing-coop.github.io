@@ -4,7 +4,7 @@ title:  "Vicar of Wakefield"
 date:   2016-03-21 20:37:20
 categories: brewing recipe
 tags: brewing recipe
-image: /images/vicar-of-wakefield.jpg
+image: /images/wakefield.jpg
 ---
 
 *The Vicar of Wakefield: A Tale supposed to be written by himself* is an Irish sentimental novel that was widely read in Victorian Era Britain. One copy of which was the only non-religious text found aboard a small river boat seemingly abandoned on King William Island in the Canadian Arctic Archipelago when the boat was came across in 1859 by the McClintock Arctic Expedition; who also found two skeletons inside. Leopold McClintock had set out to locate the remains of an 1845 expedition by John Franklin, but would return only with some relics - silverware and buttons they had traded for - and a short written log retrieved from a cairn. The wreck of one of Franklin's ships was eventually rediscovered in 2014.
