@@ -4,7 +4,7 @@ title:  "Cherry Oak Stout"
 date:   2016-09-10 10:00:20
 categories: brewing recipe
 tags: brewing recipe
-image: /images/cherries.jpg
+image: /images/cherries.jpeg
 ---
 
 Brewing milestone! With today's brew, we have ceased to be one-pan brewers. No more will we tip out into a bucket between mash and boil whilst we clean the same pan to be used again. Today we have become three-pan brewers. We also say goodbye to our brewer's blanket/an old duvet that kept our mash insulated, since we can now use a properly insulated pan.

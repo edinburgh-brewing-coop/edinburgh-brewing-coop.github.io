@@ -4,7 +4,7 @@ title:  "Bee Wit"
 date:   2016-09-17 10:00:20
 categories: brewing recipe
 tags: brewing recipe
-image: /images/bees.jpg
+image: /images/bees.jpeg
 ---
 
 Bees. We love bees. And herbs.

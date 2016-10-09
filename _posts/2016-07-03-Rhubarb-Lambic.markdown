@@ -4,7 +4,7 @@ title:  "Yeast of (Rhubarb Lambic)"
 date:   2016-07-03 10:00:20
 categories: brewing recipe
 tags: brewing recipe
-image: /images/rhubarb.jpg
+image: /images/rhubarb.jpeg
 ---
 
 Grain Bill
