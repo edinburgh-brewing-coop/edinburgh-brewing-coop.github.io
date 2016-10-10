@@ -4,7 +4,7 @@ title:  "Square Gose"
 date:   2015-11-28 17:37:20
 categories: brewing recipe
 tags: brewing recipe
-image: 
+image: /images/squarego.png
 ---
 
 So we've generally been a fan of the recently revived 'Gose' style of salty coriander wheat beer and its savoury tastes. As such
