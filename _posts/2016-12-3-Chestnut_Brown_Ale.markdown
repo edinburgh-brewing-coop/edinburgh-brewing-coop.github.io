@@ -4,6 +4,7 @@ title:  "Chestnut Brown Ale & Blended Wit-Brown"
 date:   2017-02-12 10:00:20
 categories: brewing recipe
 tags: brewing recipe
+image: /images/chestnuts.jpg
 ---
 
 We do love a good brown ale and it being the winter season, we decided to brew one with nuts in as that seems like a winter thing to do. Not too many nuts mind. Subtle nuts.
