@@ -3,7 +3,7 @@ layout: post
 title:  "Cat Asylum Brewery x EBC - Nutty Brown"
 date:   2017-05-20 10:00:20
 categories: brewing recipe
-tags: brewing recipe
+tags: brewing recipe collaboration
 image: /images/the-cat-asylum.gif
 ---
 
