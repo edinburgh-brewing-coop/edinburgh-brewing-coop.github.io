@@ -4,9 +4,12 @@ title:  "5 Ways Honey Pale Ale"
 date:   2016-10-16 10:00:20
 categories: brewing recipe
 tags: brewing recipe
+image: /images/honey_seeker.jpg
 ---
 
 In light of a tasting of Dugges' imperial stout that was split into a number of curated batches, each taken on by a member of staff, we elected to try something similar. We brewed a base pale ale with NZ hops and then gave 5l to each of our 4 main brewers, as we have a larger brew length than that we left the rest as a nice NZ pale ale. The only aim for each was to create something unique involving honey.
+
+The image above is a honey seeker from an 8000-year-old cave painting in the Araña Caves in Spain.
 
 Grain Bill
 ==========
