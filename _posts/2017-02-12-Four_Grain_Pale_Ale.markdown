@@ -4,6 +4,7 @@ title:  "Four Grain Pale Ale"
 date:   2017-02-12 10:00:20
 categories: brewing recipe
 tags: brewing recipe
+image: /images/grains.jpg
 ---
 
 This brew is an experiment in creating a richer flavoured pale ale through the addition of different grain flavours. The wheat will also contribute to head retention and the oats to mouthfeel.
