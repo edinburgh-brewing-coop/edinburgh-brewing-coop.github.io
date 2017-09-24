@@ -4,6 +4,7 @@ title:  "Nothing Compares 2 Chang"
 date:   2017-08-12 10:00:20
 categories: brewing recipe
 tags: brewing recipe
+image: /images/prince_chang.jpg
 ---
 
 After sampling some of our previous chang 1 year on, and it being absolutely delicious, we decided to do another. As the process to make it is reasonably simple we decided to be extra ambitious and make it during a regular brew day (whilst doing the Sichuan IPA!). This went pretty well.
