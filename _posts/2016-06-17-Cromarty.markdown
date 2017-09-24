@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "A Day with Cromarty Brewing"
+date:   2016-06-17 16:51:20
+categories: brewing event
+tags: brewing recipe
+image: /images/cromartycover.JPG
+---
+
+Our [Atlantic Brown](http://edinburgh-brewing-coop.github.io/brewing/recipe/2016/03/20/Bermuda.html) took second place in a homebrew competition last month. This won us the chance to visit the Black Isle peninsula and brew with Cromarty Brewery. Brown ales aren't as popular as we'd like however, so we instead took up a variation on our [Baltic Porter](http://edinburgh-brewing-coop.github.io/brewing/recipe/2016/04/09/Baltic-Porter.html).
+
+Grain Bill
+==========
+
+Vienna 71%
+Maris Otter pale 14%
+Munich 7%
+Cara 2.8%
+Dark Crystal 1.5%
+Chocolate 1.5%
+Carafa III Sp 1.5%
+
+![](http://github.com/edinburgh-brewing-coop/edinburgh-brewing-coop.github.io/tree/master/images/colour.JPG)
+
+A bit different to our original recipe, and lacking in Brown Malt. This resulted in a liquid we were concerned would turn out a little lighter than our first batch so a bit more Carafa III Sp was added prior to the boil. This brought our final volume down to around 1300L.
+
+Working around the Brewery
+==========================
+
+![](http://github.com/edinburgh-brewing-coop/edinburgh-brewing-coop.github.io/tree/master/images/cooperation.JPG)
+We're still deciding what our co-operative will look like, but hopefully it will resemble something like the above.
+
+Final Notes
+===========
+
+Once everything was in the fermentation vessel, we were presented with another treat: a small crate of Cromarty's beers, some freshly bottled from that day.
+
+Sometime in late July the beer will launch with an event at Ushers.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Pure Baltic</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://edinburgh-brewing-cooperative.github.io" property="cc:attributionName" rel="cc:attributionURL">Edinburgh Brewing Cooperative</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+

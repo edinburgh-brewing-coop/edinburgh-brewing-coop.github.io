@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Our Chang Drink (TBC)"
+date:   2016-07-25 10:00:20
+categories: brewing recipe
+tags: brewing recipe
+image: /images/chang-massage.jpg
+---
+
+Another thing we read about first in our book on sacred/herbal beers. Traditional rice wine to the Himalayan regions. Chang being a name of Tibetan/Nepali origin.
+
+Method
+======
+
+Boiled:
+
+* 1 Kg Jasmine Rice
+
+Added later:
+
+* 1/2 cup rice flour:
+* 1 east asian yeast/fungus cake
+
+The rice, drained was spooned out onto a refuse sack. The yeast cake was grounded up and gently massaged into the drained rice.
+
+Later
+=====
+
+After experiments in diluting the resultant broth by various amounts in accordance with a couple of recipes we'd come across, we settled on adding three cups of water. 
+
+Three and a half 750ml bottles came out of this. Unfortunately one bottle was lost due to excessive pressure ousting the cork from its bottle. This was our control bottle, left out of the fridge despite both consulted recipes advising against this. 
+
+Tasted great!
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Our-Chang-Drink</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://edinburgh-brewing-cooperative.github.io" property="cc:attributionName" rel="cc:attributionURL">Edinburgh Brewing Cooperative</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.

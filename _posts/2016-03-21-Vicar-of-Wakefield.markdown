@@ -4,10 +4,14 @@ title:  "Vicar of Wakefield"
 date:   2016-03-21 20:37:20
 categories: brewing recipe
 tags: brewing recipe
-image: /images/vicar-of-wakefield.jpg
+image: /images/wakefield.jpg
 ---
 
-__Interesting historical description pending__.
+*The Vicar of Wakefield: A Tale supposed to be written by himself* is an Irish sentimental novel that was widely read in Victorian Era Britain. One copy of which was the only non-religious text found aboard a small river boat seemingly abandoned on King William Island in the Canadian Arctic Archipelago when the boat was came across in 1859 by the McClintock Arctic Expedition; who also found two skeletons inside. Leopold McClintock had set out to locate the remains of an 1845 expedition by John Franklin, but would return only with some relics - silverware and buttons they had traded for - and a short written log retrieved from a cairn. The wreck of one of Franklin's ships was eventually rediscovered in 2014.
+
+Perhaps our interest in these historical episodes comes off as more than a little morbid. But, fittingly, the mid-1800s were a time of growing interest in Spritiualism. Charles Dickens popular ghost story *A Christmas Carol* had just been published in the winter of 1843 and a few years later in 1861, Prince Albert's death would most memorably define the Victorian Age as one in mourning, and obsessed with death and the supernatural. So by taking inspiration for our beer's name from the *Vicar of Wakefield* relic, perhaps we do evoke the context of the mid-1800s.
+
+with this beer we attempt to brew as inspired by the Arctic Ale: originally brewed at the request of Queen Victoria for the first attempt to locate John Franklin as well as a few years later for McClintock's second search expedition. Later still another batch was brewed in 1875 for George Nares' British Artic Expedition to the North Pole. The intent of these brewers was to put together a strong 'life-sustaining ale' high in B vitamins: so as to help prevent scurvy. Our attempt is maybe not as healthy, perhaps not as strong. After some miscalculations on our part we resulted in an OG of 1.090 rather than 1.130 which we were expecting. They would also have boiled for 12 hours; we, only two. 
 
 Grain Bill
 ==========
@@ -31,7 +35,7 @@ Boil
 
 Boiled for 120 minutes, adding the following:
 
-* 1.5kg Coopers Amber Amlt Extract at 120min
+* 1.5kg Coopers Amber Malt Extract at 120min
 * Whitbread Goldings Variety (30 IBU) at 60 mins
 * Irish Moss at 15 mins
 * Whitbread Goldings Variety (10 IBU) at 15 mins
