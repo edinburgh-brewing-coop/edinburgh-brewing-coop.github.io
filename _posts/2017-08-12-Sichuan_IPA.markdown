@@ -4,9 +4,12 @@ title:  "Sichuan IPA"
 date:   2017-08-12 10:00:20
 categories: brewing recipe
 tags: brewing recipe
+image: /images/sichuan_alkaline.png
 ---
 
 With the temporary return of our erstwhile brewing cooperator from his adventures in China (which perhaps he may post sometime concerning his brewing endeavours) we decided to brew a beer with some particularly fragrant and alkaline sichuan peppercorns he had brought back. Something we had been contemplating trying for a while. The result, hampered somewhat by a lack of freshly harvested hops (we had to make do with 2015 harvest) is a refreshing affair with a subtle and not overwhelming tingle from the peppercorns but with their characteristic taste well blended with the flavour of the hops.
+
+The picture above is the alkaline in sichuan peppercorns that makes your mouth tingle.
 
 Grain Bill
 ==========
