@@ -4,6 +4,7 @@ title:  "Hefeweizen & Cherry Hef"
 date:   2017-04-22 10:00:20
 categories: brewing recipe
 tags: brewing recipe
+image: /images/cherry.jpg
 ---
 
 With the summer coming up we decided to brew something good to drink in the hopeful event of sunshine in Edinburgh. We'd not done a Hef before so thought now'd be a good time. Due to it being the season, we also made this our first experiment proper with cherry addition and aging.
