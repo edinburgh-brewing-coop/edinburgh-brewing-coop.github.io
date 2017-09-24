@@ -4,7 +4,7 @@ title:  "Brown IPA"
 date:   2017-02-04 10:00:20
 categories: brewing recipe
 tags: brewing recipe
-image: /images/brown_ipa_brewing.png
+image: /images/brown_ipa_brewing.jpg
 ---
 
 With the IBD homebrew competition coming up once again (which we placed second at last year with out atlantic brown ale) we decided to renew our love affair with the brown ale by throwing more hops into it than we usually care to in an attempt to create a brown IPA (an official sub-category of IPA as recognised by the BJCP believe it or not). This was very much a collaboration brew with our friend Billy joining in and our own Gav joining us for the first time in a while.
