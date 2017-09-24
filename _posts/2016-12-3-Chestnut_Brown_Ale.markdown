@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chestnut Brown Ale"
+title:  "Chestnut Brown Ale & Blended Wit-Brown"
 date:   2017-02-12 10:00:20
 categories: brewing recipe
 tags: brewing recipe
@@ -50,5 +50,14 @@ Results:
 - OG 1.062
 - FG 1.020
 - ABV - 5.5%
+
+Blending
+========
+
+One of the two batches was taken to blend with our bee pollen wit, which had sadly become infected with lactobacillus, in order to give it body and balance the sourness. 
+
+Several ratios were tried and we settled with:
+- 23% Wit
+- 77% Chestnut Brown Ale
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Bitter Cooperation</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://edinburgh-brewing-cooperative.github.io" property="cc:attributionName" rel="cc:attributionURL">Edinburgh Brewing Cooperative</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
