@@ -4,7 +4,7 @@ title:  "Five Grain Pale Ale"
 date:   2017-06-17 10:00:20
 categories: brewing recipe
 tags: brewing recipe
-image: corn.jpg
+image: /images/corn.jpg
 ---
 
 As a follow up to our previous attempt at a richer plae ale, we decided to revisit it and make some improvements. In a recent collaboration brew with Henry Bealby's Cat Asylum brewery, we brewed an X ale with a high proportion of maize which gave quite a nice dry finish to what was otherwise essentially a full on brown ale, this effect we tried to make use of here. Carapils was also decreased to 5% in line with maltsters recommendations and a higher proportion of vienna malt used in place of 2-row. Slovenian noble hops were used in place of our previous hopping regimen.
