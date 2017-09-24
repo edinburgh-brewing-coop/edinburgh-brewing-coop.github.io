@@ -4,7 +4,6 @@ title:  "Imperial Stout"
 date:   2016-11-28 17:37:20
 categories: brewing recipe
 tags: brewing recipe
-image: /images/squarego.png
 ---
 
 James is a big fan of big strong beer. We decided to indulge him by brewing a nice complex imperial stout.
