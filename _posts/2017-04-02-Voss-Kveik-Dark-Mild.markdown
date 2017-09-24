@@ -4,6 +4,7 @@ title:  "Voss Kveik Dark Mild"
 date:   2017-04-02 10:00:20
 categories: brewing recipe
 tags: brewing recipe
+image: /images/juniper.JPG
 ---
 
 After reading Lars' blog [http://www.garshol.priv.no/blog/] and gaining an insight into Norweigan farmhouse brewing, we had a go at a dark mild with Sigmund's Voss Kveik yeast from Yeast Bay. As we wrote on our recipe; "Fusing the norweigan kveik yeast (farmhouse), and 19th/early 20th century mild recipes to create a brew of bastardised brilliance".
