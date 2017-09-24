@@ -1,0 +1,62 @@
+---
+layout: post
+title:  "Brown IPA"
+date:   2017-02-04 10:00:20
+categories: brewing recipe
+tags: brewing recipe
+image: /images/brown_ipa_brewing.png
+---
+
+With the IBD homebrew competition coming up once again (which we placed second at last year with out atlantic brown ale) we decided to renew our love affair with the brown ale by throwing more hops into it than we usually care to in an attempt to create a brown IPA (an official sub-category of IPA as recognised by the BJCP believe it or not). This was very much a collaboration brew with our friend Billy joining in and our own Gav joining us for the first time in a while.
+
+Grain Bill
+==========
+
+- 5kg 2-Row
+- 2kg Vienna
+- 1kg Brown
+- 0.5kg Dark Crystal
+- 0.5kg Light Crystal
+- 0.5kg Amber
+- 0.5kg Wheat
+- 0.5kg Oats
+
+60min Mash @ 66C
+
+Liquor to Grist: 2.5 : 1 (Approx.)
+
+Boil
+====
+
+Boiled for 90 minutes, with the following fun additions:
+
+- 60min Green Bullet 50g
+- 10min Summer 50g
+- 5min Ella 50g
+- 5min Rakau 50g
+- 1min/end 25g Summer
+- 1min/end 25g Ella
+- 1min/end 25g Rakau
+
+IBU estimate is 62.79
+
+Post-Boil
+=========
+
+38l brewed split into two batches.
+
+Yeast
+-----
+
+- Vermont Ale
+- East Coast Ale
+
+FG of east coast batch: 1.016 @ 16C so 1.016; 6.04% ABV
+
+Dry Hopping
+-----------
+
+1 gram per litre of dry hops, overall [30% Rakau & 70% Summer].
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Bitter Cooperation</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://edinburgh-brewing-cooperative.github.io" property="cc:attributionName" rel="cc:attributionURL">Edinburgh Brewing Cooperative</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
