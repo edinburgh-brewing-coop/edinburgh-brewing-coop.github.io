@@ -4,6 +4,7 @@ title:  "Historic Barley Wine - Collaboration Brew"
 date:   2017-10-08 10:00:20
 categories: brewing recipe collaboration
 tags: brewing recipe collaboration cat-asylum
+image: cat_asylum_barley_wine_brewday.jpg
 ---
 
 Having got on so well with Henry of Cat Asylum Brewing earlier this year, we decided to return to brew another historic beer together. This time a barley wine! 
@@ -21,15 +22,16 @@ The original grist was as follows:
 
 As we weren't entirely sure precisely what 'High dried malt' referred to, after some research we decided to replace it with several smaller portions of lighter roast malts to contribute malty complexity. Our adjusted grist was thus as follows:
 
-- Pale Malt - 60%
-- Flaked Maize 12%
-- No. 3 Invert 10%
-- Light Crystal 7%
-- Munich 6%
-- Carapils 5% 
+- Pale Malt - 62.3%
+- Flaked Maize 11.3%
+- No. 3 Invert 8.3%
+- Carapils 8.3%
+- Light Crystal 5.3%
+- Munich 4.5%
+ 
 
 The original recipe had a longer mash so we aimed to mashed for 90 mins. Though I believe in practice it was slightly longer than this.
-
+x
 Mash Temp: 66 Celsius
 
 Liquor to Grist: 2.5 : 1 (Approx.)
