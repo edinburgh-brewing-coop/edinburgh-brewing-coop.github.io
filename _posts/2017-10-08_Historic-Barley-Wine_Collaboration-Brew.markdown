@@ -4,7 +4,7 @@ title:  "Historic Barley Wine - Collaboration Brew"
 date:   2017-10-08 10:00:20
 categories: brewing recipe collaboration
 tags: brewing recipe collaboration cat-asylum
-image: cat_asylum_barley_wine_brewday.jpg
+image: /images/cat_asylum_barley_wine_brewday.jpg
 ---
 
 Having got on so well with Henry of Cat Asylum Brewing earlier this year, we decided to return to brew another historic beer together. This time a barley wine! 
@@ -31,7 +31,7 @@ As we weren't entirely sure precisely what 'High dried malt' referred to, after 
  
 
 The original recipe had a longer mash so we aimed to mashed for 90 mins. Though I believe in practice it was slightly longer than this.
-x
+
 Mash Temp: 66 Celsius
 
 Liquor to Grist: 2.5 : 1 (Approx.)
