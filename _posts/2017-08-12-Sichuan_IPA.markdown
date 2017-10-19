@@ -46,6 +46,8 @@ Boiled for 90 minutes, with the following fun additions:
 - 1m/end - 50g Archer (6.73AA)
 - 1m/end - 50g First Gold (4.33AA)
 
+Theoretical IBU: 50
+
 Post-Boil
 =========
 
