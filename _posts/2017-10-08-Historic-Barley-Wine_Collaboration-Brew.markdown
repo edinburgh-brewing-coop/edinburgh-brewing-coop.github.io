@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Historic Barley Wine - Collaboration Brew"
+title:  "Historic Barley Wine. Brewed in Cooperation."
 date:   2017-10-08 10:00:20
-categories: brewing recipe collaboration
+categories: brewing-recipe
 tags: brewing recipe collaboration cat-asylum
 image: /images/cat_asylum_barley_wine_brewday.jpg
 ---
