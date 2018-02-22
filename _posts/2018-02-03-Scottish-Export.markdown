@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Historic Barley Wine. Brewed in Cooperation."
+title:  "Scottish Export 80-."
 date:   2018-02-03 10:00:20
 categories: brewing-recipe
 tags: brewing recipe idb
